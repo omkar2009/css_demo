@@ -1,0 +1,36 @@
+
+        /* Global / Universal Selector */
+        * {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        /* HTML / Tag Selectors */
+        body {
+            background-color: bisque;
+
+        }
+        section {
+
+            background-color: pink;
+        }
+        p {
+            background-color: aqua;
+        }
+        span {
+            background-color: yellow;
+        }
+        h1 {
+            color: red;
+        }
+
+        /* Class Selector */
+        .sectionTitle {
+            text-decoration: underline;
+            
+        }
+        
+
+        /* ID Selector */
+        #specialTitle {
+            text-transform: capitalize;
+            color: blue;
+        }
